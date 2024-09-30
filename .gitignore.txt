@@ -1,5 +1,17 @@
-# Archivos generados por Visual Studio
+# Ignorar archivos de Visual Studio
 .vs/
-*.vscode/
 bin/
 obj/
+*.user
+*.suo
+*.sln.docstates
+*.sln.ide
+
+# Ignorar archivos de compilación
+*.dll
+*.exe
+*.pdb
+
+# Ignorar archivos de paquetes
+*.nupkg
+*.snupkg
