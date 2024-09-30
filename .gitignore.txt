@@ -1,0 +1,5 @@
+# Archivos generados por Visual Studio
+.vs/
+*.vscode/
+bin/
+obj/
